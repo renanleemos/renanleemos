@@ -4,14 +4,6 @@
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renanleemos/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanleemos/)
 
-
-![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=renanleemos&show_icons=true&theme=tokyonight)
-
-![Snake animation](https://github.com/renanleemos/renanleemos/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
 ## Tecnologias Utilizadas
 
 <div style="display: inline_block"><br/>
@@ -22,3 +14,12 @@
     <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 </div>
+
+
+![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=renanleemos&show_icons=true&theme=tokyonight)
+
+![Snake animation](https://github.com/renanleemos/renanleemos/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
