@@ -14,7 +14,7 @@
     <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
 </div>
-
+<br>
 
 ![Renan GitHub stats](https://github-readme-stats.vercel.app/api?username=renanleemos&show_icons=true&theme=tokyonight)
 
@@ -22,3 +22,7 @@
 </div>
 
 ![Snake animation](https://github.com/renanleemos/renanleemos/blob/output/github-contribution-grid-snake.svg)
+
+
+
+
