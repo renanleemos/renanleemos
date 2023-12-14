@@ -1,9 +1,5 @@
 ## Olá! Meu nome é Renan. 🤘 
 
-
-[![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/renanleemos/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renanleemos/)
-
 ## Tecnologias Utilizadas
 
 <div style="display: inline_block"><br/>
